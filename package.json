@@ -1,0 +1,11 @@
+{
+  "name": "u-mang-the-moon-finally-answers-back-781a7ec1",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "One line the Moon says back to everyone who wishes on it, 240 characters max, to /output/entry.txt.",
+  "license": "MIT",
+  "scripts": {
+    "entry": "MAKEFUN_OUTPUT_DIR=out node main.ts"
+  }
+}
